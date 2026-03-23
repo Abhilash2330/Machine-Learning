@@ -13,3 +13,12 @@ This tutorial compares three commonly used kernel functions:
 - Radial Basis Function (RBF) Kernel
 
 The behaviour of these kernels is demonstrated using the Breast Cancer dataset from Scikit-learn.
+
+## Requirements
+
+To run the notebook, install the following Python libraries:
+
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
